@@ -1,0 +1,21 @@
+   .bg-danger {     
+	 background:#d80005!important;
+    }
+	.time.badge{
+		
+		cursor:pointer;
+	}
+	.badge{ 
+		cursor:pointer;
+	}
+	.oder_code.mt-1 {
+    float: left;
+    text-decoration: underline;
+}
+.price-row{
+	border:1px solid #fff;
+	border-radius:10px;
+	padding-bottom: 9px;
+padding-top: 5px;
+margin-top: 5px;
+}

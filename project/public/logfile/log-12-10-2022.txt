@@ -1,0 +1,128 @@
+2022-10-12 07:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 07:15:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 07:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 07:45:04	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 08:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 08:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 08:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 08:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 09:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 09:15:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 09:30:04	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 09:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 10:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 10:15:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 10:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 10:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 11:00:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 11:06:02	49.206.14.100	USR18_1	Restaurant Item RITM22_227 is updated.
+2022-10-12 11:06:37	49.206.14.100	USR18_1	Restaurant Item RITM22_226 is updated.
+2022-10-12 11:06:43	49.206.14.100	USR18_1	Restaurant Item RITM22_225 is updated.
+2022-10-12 11:06:51	49.206.14.100	USR18_1	Restaurant Item RITM22_222 is updated.
+2022-10-12 11:06:57	49.206.14.100	USR18_1	Restaurant Item RITM22_214 is updated.
+2022-10-12 11:07:03	49.206.14.100	USR18_1	Restaurant Item RITM22_213 is updated.
+2022-10-12 11:08:32	49.206.14.100	USR18_1	User USR_79 is added
+2022-10-12 11:08:54	49.206.14.100	USR18_1	User USR_79 is updated.
+2022-10-12 11:09:49	49.206.14.100	USR18_1	User USR_80 is added
+2022-10-12 11:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 11:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 11:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 11:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 11:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 11:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 12:00:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 12:00:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 12:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 12:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 12:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 12:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 12:45:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 12:45:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 13:00:03	162.240.44.23	USR_79	Order ORDER26387_6 assign through cronjob to USR_79
+2022-10-12 13:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 13:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 13:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 13:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 13:30:04	162.240.44.23	USR_76	Order ORDER1705_8 assign through cronjob to USR_76
+2022-10-12 13:30:04	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 13:30:04	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 13:45:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 13:45:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 14:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 14:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 14:15:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 14:15:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 14:30:04	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 14:30:04	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 14:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 14:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 15:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 15:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 15:15:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 15:15:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 15:30:04	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 15:30:04	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 15:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 15:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 16:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 16:15:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 16:30:05	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 16:30:05	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 16:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 16:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 16:50:48	49.206.14.100	USR18_1	Restaurant Item RITM22_237 is updated.
+2022-10-12 17:00:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 17:00:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 17:02:26	49.206.14.100	USR18_1	Restaurant offerROFF_24 is updated.
+2022-10-12 17:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 17:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 17:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 17:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 17:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 17:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 17:47:48	49.206.14.100	USR18_1	Restaurant offerROFF_24 is updated.
+2022-10-12 18:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 18:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 18:15:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 18:15:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 18:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 18:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 18:45:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 18:45:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 19:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 19:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 19:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 19:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 19:30:04	162.240.44.23	USR_78	Order ORDER22570_13 assign through cronjob to USR_78
+2022-10-12 19:30:04	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 19:30:04	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 19:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 19:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 19:55:03	49.206.14.100	USR18_1	Restaurant offerROFF_24 is updated.
+2022-10-12 20:00:03	162.240.44.23	USR_79	Order ORDER30045_14 assign through cronjob to USR_79
+2022-10-12 20:00:03	162.240.44.23	USR_80	Order ORDER90780_15 assign through cronjob to USR_80
+2022-10-12 20:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 20:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 20:30:03	162.240.44.23	USR_80	Order ORDER30045_14 assign through cronjob to USR_80
+2022-10-12 20:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 20:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 20:45:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 20:45:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 21:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 21:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 21:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 21:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 21:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 21:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 21:45:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 21:45:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 22:00:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 22:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 22:15:02	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 22:15:02	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 22:30:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 22:30:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 22:45:03	162.240.44.23	RES_24	RES_24 service status updated.
+2022-10-12 22:45:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 23:00:03	162.240.44.23	RES_25	RES_25 service status updated.
+2022-10-12 23:15:02	162.240.44.23	RES_25	RES_25 service status updated.

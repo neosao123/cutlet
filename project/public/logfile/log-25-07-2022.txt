@@ -1,0 +1,2 @@
+2022-07-25 14:01:26	106.220.171.236	USR18_1	Password Reset USR_72 is updated.
+2022-07-25 14:52:30	49.36.37.50	USR18_1	Restaurant offerROFF_16 is updated.

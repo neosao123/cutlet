@@ -1,0 +1,61 @@
+2022-09-24 10:54:07	152.57.68.66	USR18_1	Restaurant RES_27 is updated.
+2022-09-24 11:41:41	152.57.68.66	USR18_1	Restaurant RES_27 is updated.
+2022-09-24 11:41:56	152.57.68.66	USR18_1	Restaurant RES_27 is updated.
+2022-09-24 12:42:18	103.216.69.17	USR18_1	Home Slider HMSLD_70 is added
+2022-09-24 12:42:48	103.216.69.17	USR18_1	Home Slider HMSLD_70 is updated.
+2022-09-24 12:42:58	103.216.69.17	USR18_1	Home Slider HMSLD_70 is updated.
+2022-09-24 12:46:30	103.216.69.17	USR18_1	Restaurant RES_21 is updated.
+2022-09-24 12:46:52	103.216.69.17	USR18_1	Restaurant RES_21 is updated.
+2022-09-24 12:48:33	103.216.69.17	USR18_1	Restaurant RES_21 is updated.
+2022-09-24 12:49:14	103.216.69.17	USR18_1	Home Slider HMSLD_71 is added
+2022-09-24 12:50:06	103.216.69.17	USR18_1	Home Slider HMSLD_71 is updated.
+2022-09-24 13:26:30	103.216.69.17	USR18_1	City CTY_31 is updated.
+2022-09-24 13:30:47	103.216.69.17	USR18_1	Address ADDR_8 is added
+2022-09-24 13:39:34	103.216.69.17	USR18_1	Restaurant RES_28 is added
+2022-09-24 13:40:32	103.216.69.17	USR18_1	Restaurant RES_28 is updated.
+2022-09-24 13:41:00	103.216.69.17	USR18_1	Restaurant RES_28 is updated.
+2022-09-24 13:42:17	103.216.69.17	USR18_1	Home Slider HMSLD_72 is added
+2022-09-24 13:42:52	103.216.69.17	USR18_1	Home Slider HMSLD_72 is updated.
+2022-09-24 13:43:14	103.216.69.17	USR18_1	Home Slider HMSLD_72 is updated.
+2022-09-24 13:45:13	103.216.69.17	USR18_1	Home Slider HMSLD_73 is added
+2022-09-24 14:00:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 14:07:20	103.216.69.17	USR18_1	Restaurant Item RITM22_228 is added
+2022-09-24 14:15:02	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 14:30:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 14:45:04	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 15:00:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 15:15:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 15:30:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 15:45:02	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 16:00:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 16:15:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 16:30:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 16:45:02	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 17:00:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 17:15:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 17:25:05	152.57.68.66	USR18_1	MenuSubcategory MNCAT_1 is deleted
+2022-09-24 17:30:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 17:45:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 18:00:02	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 18:05:49	152.57.68.66	USR18_1	Customizedcategory line entryCCLN_25 is added
+2022-09-24 18:14:46	152.57.68.66	USR18_1	Add on category lineCCLN_25 is deleted
+2022-09-24 18:15:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 18:15:43	152.57.68.66	USR18_1	Customizedcategory line entryCCLN_26 is added
+2022-09-24 18:16:47	152.57.68.66	USR18_1	Customizedcategory line entryCCLN_27 is added
+2022-09-24 18:17:56	152.57.68.66	USR18_1	Add on category lineCCLN_27 is deleted
+2022-09-24 18:17:58	152.57.68.66	USR18_1	Add on category lineCCLN_26 is deleted
+2022-09-24 18:18:09	152.57.68.66	USR18_1	Customizedcategory line entryCCLN_28 is added
+2022-09-24 18:30:04	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 18:31:05	152.57.68.66	USR18_1	Restaurant offerROFF_23 is updated.
+2022-09-24 18:31:22	152.57.68.66	USR18_1	Restaurant offerROFF_22 is updated.
+2022-09-24 18:36:53	152.57.68.66	USR18_1	Restaurant offerROFF_23 is updated.
+2022-09-24 18:37:12	152.57.68.66	USR18_1	Restaurant offerROFF_22 is updated.
+2022-09-24 18:45:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 19:00:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 19:15:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 19:30:04	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 19:45:02	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 20:00:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 20:15:03	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 20:30:04	162.240.44.23	RES_28	RES_28 status updated.
+2022-09-24 20:45:03	162.240.44.23	RES_28	RES_28 status updated.

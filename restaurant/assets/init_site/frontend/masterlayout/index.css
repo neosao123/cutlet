@@ -1,0 +1,15 @@
+ body .p-15 {
+            padding: 15px;
+        }
+
+        body .p-l-30 {
+            padding-left: 30px;
+        }
+
+        body .p-10 {
+            padding: 10px;
+        }
+
+        #main-wrapper[data-layout=vertical][data-sidebartype=full] .page-wrapper {
+            margin-left: 0px;
+        }

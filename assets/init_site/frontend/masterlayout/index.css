@@ -1,0 +1,42 @@
+
+	.maintenance-btn label {
+		color: #ff6440;
+		font-size: 18px;
+	}
+	.cust_check::after, .cust_check::before {
+		margin-top: 20px;
+	}
+	.modal-body {
+		position: relative;
+		flex: 1 1 auto;
+		padding: 1rem;
+	}
+	#maintenance-modal .modal-header {
+		display: initial;
+		background: #ec3f17;
+		color: #fff;
+	}
+	
+	#maintenance-modal .modal-title {
+		text-align: center;
+		font-size: 22px;
+	}
+	#maintenance-modal .modal-header .close {
+		margin: -27px 0 0;
+		padding: 0;
+	}
+	#maintenance-modal p {
+		font-size: 14px;
+	}
+	#maintenance-modal .btn-primary {
+		font-size: 16px;
+		padding: 5px 20px;
+		margin: 0 auto;
+		display: block;
+		border-radius: 5px;
+	}
+	#maintenance-modal label {
+		font-weight: 500;
+		color: #272727;
+		font-size: 16px;
+	}

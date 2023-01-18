@@ -1,0 +1,12 @@
+.bg-dash {
+    /*background-image: linear-gradient(to bottom,#2962ff , #29baff);*/
+	background:#6c6363;
+	border-radius:10px;
+}
+.m-r-10 {
+    margin-right: 10px;
+}
+a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
+    color: inherit;
+    text-decoration: none;
+}																																																	

@@ -1,0 +1,24 @@
+2022-09-20 09:31:24	49.206.13.12	RES_20	Restaurant Item RITM22_222 is added
+2022-09-20 09:35:18	49.206.13.12	RES_20	Restaurant Item RITM22_223 is added
+2022-09-20 17:23:26	49.206.13.12	RES_24	Restaurant offerROFF_19 is added.
+2022-09-20 17:24:16	49.206.13.12	RES_24	Restaurant offerROFF_20 is added.
+2022-09-20 17:25:11	49.206.13.12	RES_24	Restaurant offerROFF_21 is added.
+2022-09-20 17:25:45	49.206.13.12	RES_24	Restaurant offerROFF_22 is added.
+2022-09-20 17:29:23	49.206.13.12	RES_24	Restaurant offerROFF_22 is updated.
+2022-09-20 17:30:01	49.206.13.12	RES_24	Restaurant offerROFF_22 is updated.
+2022-09-20 17:52:06	49.206.13.12	RES_24	Restaurant offerROFF_19 is updated.
+2022-09-20 20:26:21	49.206.13.12	RES_24	Restaurant offerROFF_21 is updated.
+2022-09-20 20:27:33	49.206.13.12	RES_24	Restaurant offerROFF_21 is updated.
+2022-09-20 20:30:28	49.206.13.12	RES_24	Restaurant offerROFF_19 is updated.
+2022-09-20 20:31:07	49.206.13.12	RES_24	Restaurant offerROFF_21 is updated.
+2022-09-20 20:31:48	49.206.13.12	RES_24	Restaurant offerROFF_20 is updated.
+2022-09-20 20:35:23	49.206.13.12	RES_24	Restaurant offerROFF_22 is updated.
+2022-09-20 20:42:00	49.206.13.12	RES_24	Restaurant offerROFF_23 is added.
+2022-09-20 22:07:37	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 22:29:06	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 22:29:59	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 22:53:55	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 22:59:56	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 23:00:20	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 23:01:53	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.
+2022-09-20 23:05:35	49.206.13.12	RES_24	Restaurant offerROFF_23 is updated.

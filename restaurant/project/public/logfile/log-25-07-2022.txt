@@ -1,0 +1,1 @@
+2022-07-25 14:51:36	49.36.37.50	RES_20	Restaurant offerROFF_16 is added.

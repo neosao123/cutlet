@@ -1,0 +1,17 @@
+2022-07-21 13:18:44	152.57.213.113	USR_71	Order ORDER14404_27 assign through cronjob to USR_71
+2022-07-21 13:19:16	152.57.213.113	USR_76	Order ORDER3507_29 assign through cronjob to USR_76
+2022-07-21 13:27:07	152.57.213.113	USR_72	Order ORDER3507_29 assign through cronjob to USR_72
+2022-07-21 13:27:07	152.57.213.113	USR_71	Order ORDER14404_27 assign through cronjob to USR_71
+2022-07-21 13:28:02	152.57.213.113	USR_76	Order ORDER3507_29 assign through cronjob to USR_76
+2022-07-21 13:29:01	152.57.213.113	USR_72	Order ORDER3507_29 assign through cronjob to USR_72
+2022-07-21 13:29:01	152.57.213.113	USR_71	Order ORDER14404_27 assign through cronjob to USR_71
+2022-07-21 14:58:42	152.57.213.113	RES_11	RES_11 status updated.
+2022-07-21 15:26:19	152.57.213.113	USR_76	USR_76 login status updated.
+2022-07-21 15:45:39	152.57.213.113	RES_11	RES_11 status updated.
+2022-07-21 16:15:45	152.57.213.113	USR_72	Order ORDER3507_29 assign through cronjob to USR_72
+2022-07-21 16:15:45	152.57.213.113	USR_71	Order ORDER14404_27 assign through cronjob to USR_71
+2022-07-21 16:17:34	152.57.213.113	USR_76	USR_76 login status updated.
+2022-07-21 16:18:28	152.57.213.113	RES_11	RES_11 status updated.
+2022-07-21 16:18:48	54.152.252.203	RES_11	RES_11 status updated.
+2022-07-21 16:18:48	3.239.7.166	RES_11	RES_11 status updated.
+2022-07-21 16:30:21	152.57.213.113	USR_76	USR_76 login status updated.

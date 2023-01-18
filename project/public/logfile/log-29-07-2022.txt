@@ -1,0 +1,18 @@
+2022-07-29 10:04:50	117.99.243.2	USR18_1	New terms and condition TAC_1 is added under cart type
+2022-07-29 10:55:47	117.99.243.2	USR18_1	New terms and condition TAC_2 is added under cart type
+2022-07-29 10:58:24	117.99.243.2	USR18_1	TAC_2 Terms is updated under cart type
+2022-07-29 10:59:27	117.99.243.2	USR18_1	New terms and condition TAC_3 is added under cart type
+2022-07-29 10:59:32	117.99.243.2	USR18_1	TAC_3 terms and condition is deleted
+2022-07-29 10:59:44	117.99.243.2	USR18_1	TAC_1 Terms is updated under cart type
+2022-07-29 15:30:27	106.211.99.14	USR18_1	RPS_1 reward slot is added
+2022-07-29 15:32:36	106.211.99.14	USR18_1	RPS_2 reward slot is added
+2022-07-29 15:32:57	106.211.99.14	USR18_1	RPS_3 reward slot is added
+2022-07-29 15:33:13	106.211.99.14	USR18_1	RPS_4 reward slot is added
+2022-07-29 15:55:49	106.211.99.14	USR18_1	RPS_4 reward slot is updated.
+2022-07-29 15:57:11	106.211.99.14	USR18_1	RPS_4 reward slot is updated.
+2022-07-29 15:57:45	106.211.99.14	USR18_1	RPS_3 reward slot is updated.
+2022-07-29 15:57:59	106.211.99.14	USR18_1	RPS_2 reward slot is updated.
+2022-07-29 15:58:13	106.211.99.14	USR18_1	RPS_1 reward slot is updated.
+2022-07-29 16:48:28	106.211.99.14	USR18_1	RPS_1 reward slot is updated.
+2022-07-29 17:04:45	106.211.99.14	USR18_1	RPS_2 reward slot is updated.
+2022-07-29 17:05:09	106.211.99.14	USR18_1	RPS_3 reward slot is updated.

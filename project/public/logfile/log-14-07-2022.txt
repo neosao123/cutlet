@@ -1,0 +1,4 @@
+2022-07-14 08:00:15	49.206.13.220	USR18_1	Restaurant RES_21 is added
+2022-07-14 09:04:38	49.206.13.220	USR18_1	Restaurant RES_22 is added
+2022-07-14 09:04:52	49.206.13.220	USR18_1	Restaurant RES_22 is deleted
+2022-07-14 10:41:28	49.206.13.220	USR18_1	Restaurant RES_20 is updated.

@@ -1,0 +1,12 @@
+.cust_check::after,.cust_check::before{margin-top: 20px;}
+.nav-item.vendor-name {
+    transition: none !important;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.nav-item.vendor-name:hover {
+	background:none!important;
+}

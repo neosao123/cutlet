@@ -1,0 +1,81 @@
+2022-09-20 09:18:16	49.206.13.12	USR18_1	Restaurant RES_24 is updated.
+2022-09-20 09:35:34	49.206.13.12	USR18_1	Restaurant Item RITM22_222 is updated.
+2022-09-20 09:35:51	49.206.13.12	USR18_1	Restaurant Item RITM22_223 is updated.
+2022-09-20 09:40:47	49.206.13.12	USR18_1	Restaurant Item RITM22_224 is added
+2022-09-20 11:17:44	49.206.13.12	USR18_1	Restaurant Item RITM22_225 is added
+2022-09-20 11:23:13	49.206.13.12	USR18_1	Restaurant Item RITM22_225 is updated.
+2022-09-20 11:23:36	49.206.13.12	USR18_1	Restaurant Item RITM22_225 is updated.
+2022-09-20 11:23:48	49.206.13.12	USR18_1	Restaurant Item RITM22_225 is updated.
+2022-09-20 11:23:57	49.206.13.12	USR18_1	Restaurant Item RITM22_225 is updated.
+2022-09-20 11:41:29	49.206.13.12	USR18_1	Restaurant Item RITM22_213 is updated.
+2022-09-20 11:42:00	49.206.13.12	USR18_1	MenuSubcategory MNCAT_2 is deleted
+2022-09-20 11:49:03	49.206.13.12	USR18_1	Restaurant Item RITM22_213 is updated.
+2022-09-20 11:50:04	49.206.13.12	USR18_1	Restaurant Item RITM22_222 is updated.
+2022-09-20 11:50:05	49.206.13.12	USR18_1	Restaurant Item RITM22_222 is updated.
+2022-09-20 11:50:49	49.206.13.12	USR18_1	CustomizedcategoryITCC_8 is added
+2022-09-20 11:51:45	49.206.13.12	USR18_1	Restaurant Item RITM22_226 is added
+2022-09-20 11:56:23	49.206.13.12	USR18_1	CustomizedcategoryITCC_9 is added
+2022-09-20 11:56:50	49.206.13.12	USR18_1	CustomizedCategory ITCC_9 is updated.
+2022-09-20 12:01:33	49.206.13.12	USR18_1	Restaurant Item RITM22_227 is added
+2022-09-20 12:02:10	49.206.13.12	USR18_1	CustomizedcategoryITCC_10 is added
+2022-09-20 12:02:28	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_12 is added
+2022-09-20 12:02:43	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_13 is added
+2022-09-20 12:03:01	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_14 is added
+2022-09-20 12:03:19	49.206.13.12	USR18_1	CustomizedcategoryITCC_11 is added
+2022-09-20 12:03:45	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_15 is added
+2022-09-20 12:04:00	49.206.13.12	USR18_1	CustomizedcategoryITCC_12 is added
+2022-09-20 12:05:09	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_16 is added
+2022-09-20 12:05:25	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_17 is added
+2022-09-20 12:05:39	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_18 is added
+2022-09-20 12:06:05	49.206.13.12	USR18_1	CustomizedcategoryITCC_13 is added
+2022-09-20 12:06:33	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_19 is added
+2022-09-20 12:06:43	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_20 is added
+2022-09-20 12:08:37	49.206.13.12	USR18_1	Add on category lineCCLN_19 is deleted
+2022-09-20 12:09:02	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_21 is added
+2022-09-20 12:09:38	49.206.13.12	USR18_1	CustomizedCategory ITCC_11 is updated.
+2022-09-20 12:09:43	49.206.13.12	USR18_1	Add on categoryITCC_12 is deleted
+2022-09-20 12:09:57	49.206.13.12	USR18_1	CustomizedcategoryITCC_14 is added
+2022-09-20 12:10:39	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_22 is added
+2022-09-20 12:11:01	49.206.13.12	USR18_1	Customizedcategory line entryCCLN_23 is added
+2022-09-20 13:30:04	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 13:45:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 14:00:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 14:15:02	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 14:30:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 14:45:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 15:00:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 15:15:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 15:30:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 15:37:08	49.206.13.12	USR18_1	CustomizedCategory ITCC_13 is updated.
+2022-09-20 15:37:14	49.206.13.12	USR18_1	CustomizedCategory ITCC_14 is updated.
+2022-09-20 15:37:54	49.206.13.12	USR18_1	CustomizedCategory ITCC_11 is updated.
+2022-09-20 15:45:02	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 16:00:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 16:02:25	49.206.13.12	USR18_1	Restaurant RES_24 is updated.
+2022-09-20 16:15:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 16:30:04	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 16:45:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 17:00:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 17:15:02	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 17:18:52	49.206.13.12	USR18_1	Restaurant RES_24 is updated.
+2022-09-20 17:19:23	49.206.13.12	USR18_1	Restaurant RES_24 is updated.
+2022-09-20 17:26:09	49.206.13.12	USR18_1	Restaurant offerROFF_22 is updated.
+2022-09-20 17:26:20	49.206.13.12	USR18_1	Restaurant offerROFF_21 is updated.
+2022-09-20 17:26:29	49.206.13.12	USR18_1	Restaurant offerROFF_20 is updated.
+2022-09-20 17:26:44	49.206.13.12	USR18_1	Restaurant offerROFF_19 is updated.
+2022-09-20 17:28:02	49.206.13.12	USR18_1	Restaurant offerROFF_19 is updated.
+2022-09-20 17:30:04	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 17:45:02	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 17:51:33	49.206.13.12	USR18_1	Restaurant offerROFF_19 is updated.
+2022-09-20 17:51:44	49.206.13.12	USR18_1	Restaurant offerROFF_19 is updated.
+2022-09-20 17:52:13	49.206.13.12	USR18_1	Restaurant offerROFF_19 is updated.
+2022-09-20 18:00:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 18:02:19	49.206.13.12	USR18_1	Restaurant offerROFF_21 is updated.
+2022-09-20 18:15:03	162.240.44.23	RES_11	RES_11 status updated.
+2022-09-20 20:36:18	49.206.13.12	USR18_1	Restaurant offerROFF_22 is updated.
+2022-09-20 20:36:26	49.206.13.12	USR18_1	Restaurant offerROFF_21 is updated.
+2022-09-20 20:36:38	49.206.13.12	USR18_1	Restaurant offerROFF_20 is updated.
+2022-09-20 20:36:47	49.206.13.12	USR18_1	Restaurant offerROFF_19 is updated.
+2022-09-20 20:42:19	49.206.13.12	USR18_1	Restaurant offerROFF_23 is updated.
+2022-09-20 20:42:55	49.206.13.12	USR18_1	Restaurant offerROFF_23 is updated.
+2022-09-20 21:45:57	49.206.13.12	USR18_1	Restaurant offerROFF_23 is updated.

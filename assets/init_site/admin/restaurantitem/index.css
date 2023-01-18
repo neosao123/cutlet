@@ -1,0 +1,73 @@
+   .dataTables_length {
+      float: left !important;
+    }
+
+    .invalid-feedback {
+      display: none;
+      width: 100%;
+      margin-top: .25rem;
+      font-size: 75%;
+      color: #e63757;
+    }
+
+    .was-invalid .invalid-feedback {
+      display: block;
+    }
+
+    .was-invalid .form-control {
+      border: 1px solid #e63757;
+    }
+
+#myMap {
+   height: 300px;
+   width: 680px;
+}
+.select2-container--classic .select2-selection--single, .select2-container--default .select2-selection--multiple, .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-selection__arrow, .select2-container--default .select2-selection--single .select2-selection__rendered {
+	border-color: rgba(0,0,0,0.25);
+	border-radius:0px;
+    height: 35px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 35px;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+background:#588002
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected],.select2-container--default .select2-results__option[aria-selected=true]  {background:#96bf3fbd}
+.select2-container--default .select2-selection--multiple .select2-selection__choice > span { color:white!important;forn-weight:bold}
+
+.el-element-overlay .el-card-item .el-overlay-1 {
+    width: 150px;
+    /* overflow: hidden; */
+    position: relative;
+    text-align: center;
+    cursor: default;
+    height: 150px;
+}
+
+
+.el-element-overlay .el-card-item .el-overlay {
+    width: inherit;
+    height: inherit;
+    position: absolute;
+    /* overflow: hidden; */
+    top: 0;
+    left: 0;
+    opacity: 0;
+    background-color: rgba(0,0,0,.7);
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    /* margin-top: 20px; */
+}
+
+
+.el-element-overlay .el-card-item .el-overlay-1 img {
+    /* display: block; */
+    position: relative;
+    -webkit-transition: all .4s linear;
+    transition: all .4s linear;
+    width: 120px;
+    height: 120px;
+    margin-top: 16px;
+}

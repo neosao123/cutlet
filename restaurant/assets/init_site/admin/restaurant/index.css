@@ -1,0 +1,37 @@
+#myMap {
+		height: 300px;
+		width: 680px;
+	}
+
+	.select2-container--classic .select2-selection--single,
+	.select2-container--default .select2-selection--multiple,
+	.select2-container--default .select2-selection--single,
+	.select2-container--default .select2-selection--single .select2-selection__arrow,
+	.select2-container--default .select2-selection--single .select2-selection__rendered {
+		border-color: rgba(0, 0, 0, 0.25);
+		height: auto;
+	}
+
+	.select2-container--default .select2-selection--multiple .select2-selection__choice {
+		background: #5897fb !important;
+	}
+
+	.select2-container--default .select2-results__option--highlighted[aria-selected],
+	.select2-container--default .select2-results__option[aria-selected=true] {
+		background: #96bf3fbd
+	}
+
+	.select2-container--default .select2-selection--multiple .select2-selection__choice>span {
+		color: white !important;
+		forn-weight: bold
+	}
+   .accordion .card {
+		border-left: 2px solid #3e943f;
+	}
+	.form-control:disabled, .form-control[readonly] {
+    background-color: rgb(255 255 255 / 25%);
+		opacity: 1;
+	}
+	.form-group {
+    margin-bottom: 0.5rem;
+	}

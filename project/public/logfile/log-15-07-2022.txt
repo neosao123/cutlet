@@ -1,0 +1,11 @@
+2022-07-15 04:19:10	152.57.221.40	USR18_1	Restaurant RES_21 is updated.
+2022-07-15 04:20:06	152.57.221.40	USR18_1	Restaurant RES_21 is updated.
+2022-07-15 04:20:28	152.57.221.40	USR18_1	Restaurant RES_21 is updated.
+2022-07-15 04:20:39	152.57.221.40	USR18_1	Restaurant RES_21 is updated.
+2022-07-15 04:20:55	152.57.221.40	USR18_1	Restaurant RES_21 is updated.
+2022-07-15 04:25:14	152.57.221.40	USR18_1	Restaurant RES_23 is added
+2022-07-15 04:25:35	152.57.221.40	USR18_1	Restaurant RES_23 is updated.
+2022-07-15 09:52:48	152.57.221.40	USR18_1	Restaurant RES_23 is updated.
+2022-07-15 10:22:27	152.57.221.40	USR18_1	Restaurant RES_23 is updated.
+2022-07-15 10:22:47	152.57.221.40	USR18_1	Restaurant RES_23 is updated.
+2022-07-15 12:26:14	49.206.12.6	USR18_1	Restaurant RES_20 is updated.

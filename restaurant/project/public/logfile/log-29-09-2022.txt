@@ -1,0 +1,13 @@
+2022-09-29 11:15:20	152.57.75.196	RES_27	Restaurant Order ORDER40518_15 is updated.
+2022-09-29 11:15:20	152.57.75.196	RES_27	Deliveryboy earn commission USR_76 is added
+2022-09-29 11:16:47	152.57.75.196	RES_27	Order Preparing Time updated ORDER40518_15 is updated.
+2022-09-29 19:06:18	49.206.13.151	RES_24	Restaurant Order ORDER45923_2 is updated.
+2022-09-29 19:06:18	49.206.13.151	RES_24	Deliveryboy earn commission USR_71 is added
+2022-09-29 19:08:27	49.206.13.151	RES_24	Restaurant Order ORDER45923_2 is updated.
+2022-09-29 20:21:35	152.57.75.196	RES_25	Restaurant Order ORDER75532_6 is updated.
+2022-09-29 20:24:00	152.57.75.196	RES_25	Restaurant Order ORDER73673_7 is updated.
+2022-09-29 20:24:00	152.57.75.196	RES_25	Deliveryboy earn commission USR_76 is added
+2022-09-29 20:24:13	152.57.75.196	RES_25	Restaurant Order ORDER73673_7 is updated.
+2022-09-29 21:05:50	152.57.75.196	RES_25	Restaurant Order ORDER92531_8 is updated.
+2022-09-29 21:05:50	152.57.75.196	RES_25	Deliveryboy earn commission USR_76 is added
+2022-09-29 21:07:03	152.57.75.196	RES_25	Restaurant Order ORDER92531_8 is updated.
